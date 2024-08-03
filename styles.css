@@ -19,7 +19,7 @@ body {
 .leftimage {
     grid-area: leftimage;
     height: 900px;
-    background-image: url("../images/laura-vinck-Hyu76loQLdk-unsplash.jpg");
+    background-image: url("images/laura-vinck-Hyu76loQLdk-unsplash.jpg");
     background-position: center;
     background-size: cover;
     display:flex;
